@@ -83,10 +83,10 @@ The solution emphasizes KPI governance, trend analysis, and performance benchmar
 
 ---
 
-3# Key Insights
+## Key Insights
 - Prescription products are the primary revenue and profit drivers, while medical devices underperform
- -Promotions increase revenue but require tighter margin controls to avoid profit dilution
- -Urban pharmacies consistently outperform suburban and rural locations
+- Promotions increase revenue but require tighter margin controls to avoid profit dilution
+- Urban pharmacies consistently outperform suburban and rural locations
 - Certain regions exhibit high revenue but disproportionately high costs, indicating efficiency gaps
 
 ---
