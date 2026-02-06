@@ -101,9 +101,9 @@ The solution emphasizes KPI governance, trend analysis, and performance benchmar
 ---
 
 ## Tools & Technologies
-- Power BI – Data modeling, DAX, and interactive visualization
-- Excel (Simulated Dataset) – Data preparation and validation
-- GitHub – Version control and analytics portfolio presentation
+- **Power BI** – Data modeling, DAX calculations, and visualization
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Measures for sales, profit, and performance metrics
 
 ---
 
